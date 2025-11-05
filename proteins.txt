@@ -1,7 +1,7 @@
 Lysozyme
 Lysozyme
-Chicken LYSC_CHICK P00698
-Human LYSC_HUMAN P61626
+Chicken LYSC_CHICK P00698 147
+Human LYSC_HUMAN P61626   148
 Hemoglobin-alpha Human HBA HUMAN P69905
 Hemoglobin-beta Human HBB HUMAN P68871
 PFKM

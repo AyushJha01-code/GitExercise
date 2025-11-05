@@ -4,3 +4,9 @@ Chicken LYSC_CHICK P00698
 Human LYSC_HUMAN P61626
 Hemoglobin-alpha Human HBA HUMAN P69905
 Hemoglobin-beta Human HBB HUMAN P68871
+PFKM
+Pfkm
+Human
+Mouse
+PFKAM_HUMAN P08237
+PEKAM MOUSE P47857
